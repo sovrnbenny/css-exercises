@@ -2,3 +2,19 @@
     background-color: #FFC0CB;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#two {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.fontsize{
+    font-size: 24px;
+}
+
+#three {
+    font-size: 24px;
+    background-color: rgb(18, 218, 18);
+    font-weight: bold;
+}
+
